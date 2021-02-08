@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Delete",
+            "request": "launch",
+            "mainClass": "Delete",
+            "projectName": "Life - Copy_4d887319"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Life",
+            "request": "launch",
+            "mainClass": "Life",
+            "projectName": "Life_eaa7c5cf"
+        }
+    ]
+}
